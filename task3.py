@@ -1,7 +1,7 @@
 import random 
 import array 
   
-# maximum length of password needed 
+# maximum length of passworld needed 
 # this can be changed to suit your password length 
 MAX_LEN = 12
   
